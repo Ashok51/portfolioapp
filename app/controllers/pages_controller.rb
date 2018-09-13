@@ -1,9 +1,13 @@
 class PagesController < ApplicationController
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   def home
 
   	@blogs = Blog.all
 
+=======
+  def home	
+>>>>>>> Stashed changes
 =======
   def home	
 >>>>>>> Stashed changes
